@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+.dropdown img{
+    width: 25px;
+}
+.btn-outline-success{
+    border: none;
+    color: white;
+    background: rgb(49, 153, 118);
+    margin-left: -8px;
+    border-radius: 0 .25rem .25rem 0;
+}
+.btn-outline-success:hover{
+    background: rgb(156, 252, 220);
+}
+.form-control{
+    border-radius: .25rem 0 0 .25rem;
+    height: 36px;
+}
+.list h2{
+    font-size: 22px;
+    margin-top: 25px;
+}
+.list{
+    margin-top: 25px;
+}
+.carousel img{
+    height: 430px;
+}
+.carousel-indicators li{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: none;
+    border: 2px solid #fff;
+    opacity: 1;
+}
+.carousel-indicators li.active{
+    background: #fff;
+}
+.card{
+    margin-top: 30px;
+}
+.card img{
+    height: 160px;
+}
